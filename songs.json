@@ -37,7 +37,7 @@
     },
     {
         "id": 4,
-        "spotify_id": null,
+        "spotify_id": "3MdXycj2PnW7KBiYSzLVxD",
         "country": "Azerbaijan",
         "alpha_2": "AZ",
         "alpha_3": "AZE",
@@ -132,7 +132,7 @@
         "alpha_2": "GE",
         "alpha_3": "GEO",
         "artist": "Bzikebi",
-        "title": "On Replay"
+        "title": null
     },
     {
         "id": 15,
