@@ -82,12 +82,12 @@
     },
     {
         "id": 9,
-        "spotify_id": null,
+        "spotify_id": "3X6cfvG2xgtx47V03hKxjG",
         "country": "Czechia",
         "alpha_2": "CZ",
         "alpha_3": "CZE",
-        "artist": null,
-        "title": null
+        "artist": "Daniel Žižka",
+        "title": "Crossroads"
     },
     {
         "id": 10,
